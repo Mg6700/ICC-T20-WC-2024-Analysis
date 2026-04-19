@@ -11,6 +11,7 @@ Objectives
 * Build a data-driven approach to player evaluation
 
 Dashboard Preview
+<img width="1285" height="728" alt="image" src="https://github.com/user-attachments/assets/b68e763b-889f-4279-bb38-e450f0685c47" />
 
 Key Insights
 * Top-order batters contributed majority of runs → Early momentum plays a critical role in match outcomes
